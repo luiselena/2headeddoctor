@@ -9,5 +9,10 @@ Sistema de Plantão Médico, inicialmente locado.
 - Validação de entrada e saída dos médicos no plantão
 - Relatórios diversos 
 
+>[!WARNING]
+ 1. Registrar em BD próprio as infromações do sistema via API
+ 1. Extrair especialistas cadastrados para arquivo .csv que será importado no Rocket.Chat [[Criar um omnichannel]]
+ 1. Sistema precisa ser totalmente desenvolvido
+
 
 

@@ -32,3 +32,4 @@ O médico contratante deverá permancer na mesma interface e terá as funções 
 - fazer chamada de vídeo com o especialista;
 - fazer upload de documentos, fotos, laudos, exames para a avaliação do especialista. [[tela de upload]]
 
+O [[Mapeamento de APIs]] mostra o passo a passo par a construção das integrações por API.
