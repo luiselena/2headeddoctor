@@ -1,3 +1,28 @@
+API's de consulta
+
+**Pegar a lista de Departamentos**
+URL
+/api/v1/livechat/department
+Method: GET
+
+Documentação da API
+https://developer.rocket.chat/reference/api/rest-api/endpoints/omnichannel/omnichannel-endpoints/department/get-a-list-of-departments
+
+
+**Recuperar Agentes de um Departamento**
+URL
+api/v1/livechat/department/:departmentId/agents
+Method: GET
+
+Documentaçào da API
+https://developer.rocket.chat/reference/api/rest-api/endpoints/omnichannel/omnichannel-endpoints/department/retrieve-agents-of-a-department
+
+
+**Recuperar usuários**
+https://medium.com/@lucasmacedo/sistema-de-auditoria-com-o-rocket-chat-15aaa2206604
+
+
+
 **1 - Criar visitante**
 
 Será usado a cada vez que um chat for aberto entre o cliente (médico generalista)  e a central. Informar o departamento que será chamado.

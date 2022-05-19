@@ -9,7 +9,7 @@ Projeto que atenderá a integração de médicos para uma segunda opinião.
 - Redução de pedidos de exames desnecessários.
 
 ## Características
-Um sistema de  [Plantão]  registra os especialistas e seus horários de trabalho;
+Um sistema de  #Plantão  registra os especialistas e seus horários de trabalho;
 [[sistema de plantão]]
 
 Cada cliente contrata um pacote de especialistas;

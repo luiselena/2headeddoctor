@@ -26,3 +26,6 @@ https://www.youtube.com/watch?v=7Qd1OpRlJso
 
 
 Verificar [[Mapeamento de APIs]] para seguir o passo a passo de integração.
+
+
+> [!WARNING] > API só funciona se o Rocket estiver com HTTPS.

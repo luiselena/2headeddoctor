@@ -1,6 +1,6 @@
 
 Servidor onde o rocketchat está instalado
-http://159.203.108.195:3000
+https://rocket.2headed.xyz
 
 user: luiselena
 pass: lulues
